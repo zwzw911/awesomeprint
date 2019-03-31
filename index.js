@@ -71,7 +71,7 @@ function title(title,color='white'){
     if(1===needLineNum){
         //需要的空白总数=200-minAssistCharLength-title.length
         let totalSpaceLength=maxLengthPerLine-minAssistCharLength-title.length
-        inf('totalSpaceLength',totalSpaceLength)
+        // inf('totalSpaceLength',totalSpaceLength)
         //需要padding的空白总数是否为偶数
         let ifEven=(0===totalSpaceLength%2)
 
