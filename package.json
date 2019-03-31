@@ -1,0 +1,28 @@
+{
+  "name": "awesomeprint",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "print"
+  ],
+  "author": "zwzw911",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "__npminstall_done": "Sun Mar 31 2019 10:34:18 GMT+0800 (GMT+08:00)",
+  "_from": "awesomeprint@1.0.2",
+  "_resolved": "http://registry.npm.taobao.org/awesomeprint/download/awesomeprint-1.0.2.tgz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwzw911/awesomeprint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zwzw911/awesomeprint/issues"
+  },
+  "homepage": "https://github.com/zwzw911/awesomeprint#readme",
+  "description": ""
+}
